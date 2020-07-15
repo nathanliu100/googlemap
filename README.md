@@ -34,4 +34,4 @@ Please make sure to update tests as appropriate.
 [@nathanliu100](https://github.com/nathanliu100/)
 
 ## License
-[MIT](https://github.com/nathanliu100/googlemap/blob/master/LICENSE) @nathanliu100
+[MIT](https://github.com/nathanliu100/googlemap/blob/master/LICENSE) © Yongliang Liu
