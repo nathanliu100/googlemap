@@ -30,8 +30,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Authors and acknowledgment
-This code is inspired by Dr. Charles through his course Python for Everybody
+## Maintainer
+[@nathanliu100](https://github.com/nathanliu100/)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/nathanliu100/googlemap/blob/master/LICENSE) @nathanliu100
