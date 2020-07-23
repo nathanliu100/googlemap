@@ -45,9 +45,9 @@ else:
 ```
 
 #### Installation
-Clone the repository
+Download my repository
 ```sh
-git clone https://github.com/nathanliu100/googlemap.git
+https://github.com/nathanliu100/googlemap/releases/tag/v1.0
 ```
 
 <!-- USAGE -->
