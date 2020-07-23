@@ -53,7 +53,10 @@ git clone https://github.com/nathanliu100/googlemap.git
 <!-- USAGE -->
 ## Usage
 
-Will add the usage when I have time. Thanks~
+1. Download the new release file
+2. Go to the py folder and you will see 'ingeneral_Geotargeting.py' file
+3. Open the file and execuate code
+[![Product Name Screen Shot][screenshot_step1]]
 
 
 
@@ -84,3 +87,4 @@ Contributions are what make the open source community such an amazing place to b
 [license-url]: https://github.com/nathanliu100/googlemap/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/yongliangliu/
+[screenshot_step1]: example/Step_1.png
