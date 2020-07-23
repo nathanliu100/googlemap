@@ -86,9 +86,18 @@ Enter file name:
 ! After that, check your py folder, and you will see a demo1.xlsx
 ```
 ![Step2][screenshot_step2]
-
-
-
+```diff
+! The excel doc looks like this
+```
+![Step3][screenshot_step3]
+```diff
+! If you clean up the data as the following format, you will able to do some data analysis 
+```
+![Step4][screenshot_step4]
+```diff
+! Also attached an example, the chart demonstrates a list of how many individual fast-food stores within 5 miles of Ivy League schools
+```
+![Step5][screenshot_step5]
 
 <!-- CONTRIBUTING & MANINTAINER -->
 ## Contributing
@@ -118,3 +127,6 @@ Contributions are what make the open source community such an amazing place to b
 [linkedin-url]: https://www.linkedin.com/in/yongliangliu/
 [screenshot_step1]: example/Step_1.PNG
 [screenshot_step2]: example/Step_2.png
+[screenshot_step3]: example/Step_3.png
+[screenshot_step4]: example/Step_4.png
+[screenshot_step5]: example/Step_5.png
