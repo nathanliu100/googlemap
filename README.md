@@ -54,9 +54,31 @@ git clone https://github.com/nathanliu100/googlemap.git
 ## Usage
 
 1. Download the new release file
-2. Go to the py folder and you will see 'ingeneral_Geotargeting.py' file
-3. Open the file and execuate code
-[![Product Name Screen Shot][screenshot_step1]]
+2. Go to the 'py' folder and you will see 'ingeneral_Geotargeting.py' file
+3. Open the file and execute the code, you will see this as follow
+
+```sh
+Create a Workbook As: 
+```
+```sh
+*15 miles = 24140 meters
+*10 miles = 16093 meters
+*5 miles = 8047 meters
+The maximum of the radius: 50,000 meters
+Set the Store Name: 
+```
+```sh
+Set the Store's Type: 
+```
+```sh
+Set the radius (meters): 
+```
+```sh
+Enter file name:
+```
+##### the file name should be _test.txt_, where is in the py folder
+   
+[![Step1][screenshot_step1]]
 
 
 
@@ -87,4 +109,4 @@ Contributions are what make the open source community such an amazing place to b
 [license-url]: https://github.com/nathanliu100/googlemap/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/yongliangliu/
-[screenshot_step1]: example/Step_1.png
+[screenshot_step1]: example/Step_1.PNG
