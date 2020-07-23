@@ -77,8 +77,15 @@ Set the radius (meters):
 Enter file name:
 ```
 ##### the file name should be _test.txt_, where is in the py folder
-   
-[![Step1][screenshot_step1]]
+
+```diff
+! After seeing this as follows, which means you successfully run the program
+```
+![Step1][screenshot_step1]
+```diff
+! After that, check your py folder, and you will see a demo1.xlsx
+```
+![Step2][screenshot_step2]
 
 
 
@@ -110,3 +117,4 @@ Contributions are what make the open source community such an amazing place to b
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/yongliangliu/
 [screenshot_step1]: example/Step_1.PNG
+[screenshot_step2]: example/Step_2.png
